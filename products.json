@@ -1,0 +1,333 @@
+[
+    {
+        "category": "Digital Products",
+        "products": [
+            {
+                "name": "iPhone 16 (128GB)",
+                "price": 800.0,
+                "stock": 17,
+                "seller_id": "admin"
+            },
+            {
+                "name": "iPhone 16 Pro (256GB)",
+                "price": 1100,
+                "stock": 7,
+                "seller_id": "test"
+            },
+            {
+                "name": "iPhone 16 Pro Max (512GB)",
+                "price": 1400,
+                "stock": 5,
+                "seller_id": "alifaza"
+            },
+            {
+                "name": "iPhone 16 Mini (64GB)",
+                "price": 700,
+                "stock": 8,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Galaxy S24 (256GB)",
+                "price": 950,
+                "stock": 12,
+                "seller_id": "test"
+            },
+            {
+                "name": "Galaxy S24 Ultra (512GB)",
+                "price": 1200,
+                "stock": 6,
+                "seller_id": "alifaza"
+            },
+            {
+                "name": "Galaxy Z Fold 2 (256GB)",
+                "price": 1500,
+                "stock": 4,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Mi 12 Pro (256GB)",
+                "price": 900,
+                "stock": 10,
+                "seller_id": "test"
+            },
+            {
+                "name": "Redmi Note 11 (128GB)",
+                "price": 400,
+                "stock": 15,
+                "seller_id": "alifaza"
+            },
+            {
+                "name": "Poco X4 Pro (256GB)",
+                "price": 600,
+                "stock": 12,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Google Pixel 7 (128GB)",
+                "price": 600,
+                "stock": 10,
+                "seller_id": "test"
+            },
+            {
+                "name": "Google Pixel 7 Pro (256GB)",
+                "price": 900,
+                "stock": 7,
+                "seller_id": "alifaza"
+            }
+        ]
+    },
+    {
+        "category": "Laptops",
+        "products": [
+            {
+                "name": "MacBook Air (M2)",
+                "price": 999,
+                "stock": 7,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Dell XPS 13",
+                "price": 1200,
+                "stock": 5,
+                "seller_id": "test"
+            },
+            {
+                "name": "HP Spectre x360",
+                "price": 1300,
+                "stock": 3,
+                "seller_id": "alifaza"
+            },
+            {
+                "name": "ASUS ZenBook 14",
+                "price": 900,
+                "stock": 8,
+                "seller_id": "admin"
+            }
+        ]
+    },
+    {
+        "category": "Tablets",
+        "products": [
+            {
+                "name": "iPad Air (64GB)",
+                "price": 599,
+                "stock": 10,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Samsung Galaxy Tab S9",
+                "price": 799,
+                "stock": 6,
+                "seller_id": "test"
+            },
+            {
+                "name": "Microsoft Surface Pro 9",
+                "price": 999,
+                "stock": 4,
+                "seller_id": "alifaza"
+            },
+            {
+                "name": "Fire HD 10",
+                "price": 149,
+                "stock": 20,
+                "seller_id": "admin"
+            }
+        ]
+    },
+    {
+        "category": "Clothes",
+        "products": [
+            {
+                "name": "T-shirts",
+                "price": 20,
+                "stock": 50,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Jeans",
+                "price": 40,
+                "stock": 30,
+                "seller_id": "test"
+            },
+            {
+                "name": "Shoes",
+                "price": 60,
+                "stock": 20,
+                "seller_id": "alifaza"
+            },
+            {
+                "name": "Jackets",
+                "price": 80,
+                "stock": 15,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Dresses",
+                "price": 50,
+                "stock": 25,
+                "seller_id": "test"
+            }
+        ]
+    },
+    {
+        "category": "Electrical Products",
+        "products": [
+            {
+                "name": "Television",
+                "price": 300,
+                "stock": 10,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Refrigerator",
+                "price": 500,
+                "stock": 5,
+                "seller_id": "test"
+            },
+            {
+                "name": "Washing Machine",
+                "price": 400,
+                "stock": 7,
+                "seller_id": "alifaza"
+            },
+            {
+                "name": "Microwave",
+                "price": 150,
+                "stock": 12,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Air Conditioner",
+                "price": 700,
+                "stock": 4,
+                "seller_id": "test"
+            }
+        ]
+    },
+    {
+        "category": "Gaming Products",
+        "products": [
+            {
+                "name": "PlayStation 5",
+                "price": 500,
+                "stock": 8,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Xbox Series X",
+                "price": 500,
+                "stock": 6,
+                "seller_id": "test"
+            },
+            {
+                "name": "Nintendo Switch",
+                "price": 300,
+                "stock": 10,
+                "seller_id": "alifaza"
+            },
+            {
+                "name": "Gaming PC",
+                "price": 1200,
+                "stock": 4,
+                "seller_id": "admin"
+            },
+            {
+                "name": "VR Headset",
+                "price": 400,
+                "stock": 5,
+                "seller_id": "test"
+            }
+        ]
+    },
+    {
+        "category": "Home Appliances",
+        "products": [
+            {
+                "name": "Vacuum Cleaner",
+                "price": 150,
+                "stock": 10,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Blender",
+                "price": 70,
+                "stock": 15,
+                "seller_id": "test"
+            },
+            {
+                "name": "Coffee Machine",
+                "price": 100,
+                "stock": 8,
+                "seller_id": "alifaza"
+            },
+            {
+                "name": "Electric Kettle",
+                "price": 40,
+                "stock": 12,
+                "seller_id": "admin"
+            }
+        ]
+    },
+    {
+        "category": "Shoes",
+        "products": [
+            {
+                "name": "Air jordan 1",
+                "price": 300.0,
+                "stock": 20,
+                "seller_id": "admin"
+            }
+        ]
+    },
+    {
+        "category": "Cars",
+        "products": [
+            {
+                "name": "BMW 730li",
+                "price": 100000.0,
+                "stock": 3,
+                "seller_id": "admin"
+            }
+        ]
+    },
+    {
+        "category": "Uncategorized",
+        "products": [
+            {
+                "name": "Mersedes Benz C200",
+                "price": 200000.0,
+                "stock": 2,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Gaming Headset Razer",
+                "price": 250.0,
+                "stock": 4,
+                "seller_id": "admin"
+            }
+        ]
+    },
+    {
+        "category": "Gaming products",
+        "products": [
+            {
+                "name": "PS5 Controller",
+                "price": 150.0,
+                "stock": 8,
+                "seller_id": "mfte"
+            },
+            {
+                "name": "Razer Gaming Mouse",
+                "price": 250.0,
+                "stock": 5,
+                "seller_id": "admin"
+            },
+            {
+                "name": "Razer Gaming Keyboard",
+                "price": 250.0,
+                "stock": 10,
+                "seller_id": "admin"
+            }
+        ]
+    }
+]
